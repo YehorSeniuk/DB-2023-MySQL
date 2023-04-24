@@ -38,41 +38,41 @@
   <details>
   <summary>MacOS</summary>
   <p><span class="two">1.1</span> Запускаємо інсталяційний пакет</p>
-  <img src="img/mac1.jpg"/>
+  <img src="image/Install/MacOS/1_1.jpg"/>
   <p><span class="two">1.2</span> Після запуску одразу побачимо попередження, нажимаємо кнопку «Дозволити»</p>
-  <img src="img/mac2.jpg"/>
+  <img src="image/Install/MacOS/1_2.jpg"/>
   <p><span class="two">1.3</span> Бачимо коротенький вступ, нажимаємо «Продовжити»</p>
-  <img src="img/mac3.jpg"/>
+  <img src="image/Install/MacOS/1_3.jpg"/>
   <p><span class="two">1.4</span> Після вступу читаємо ліцензію угоду програми. Ми друкувати чи зберігати її не будемо, тому нажимаємо кнопку «Продовжити»</p>
-  <img src="img/mac4.jpg"/>
+  <img src="image/Install/MacOS/1_4.jpg"/>
   <p><span class="two">1.5</span> Після того, як натиснули кнопку,  погоджуємось з ліцензійними угодами, нажавши кнопку «Погоджуюсь»</p>
-  <img src="img/mac5.jpg"/>
+  <img src="image/Install/MacOS/1_5.jpg"/>
   <p><span class="two">1.6</span> Після згоди, інсталюємо пакет, обов’язково слідкуємо, щоб було вільне місце
 Можем також змінити місце інсталювання( за умовчуванням  «Для всіх користувачів на цьому компʼютері»)</p>
-  <img src="img/mac6.jpg"/>
+  <img src="image/Install/MacOS/1_6.jpg"/>
   <p><span class="two">1.7</span> При натиснені кнопки «Змінити місце інсталяції»</p>
-  <img src="img/mac7.jpg"/>
+  <img src="image/Install/MacOS/1_7.jpg"/>
   <p><span class="two">1.8</span> Для інсталяції нам необхідно або ввести пароль від компʼютера або використати Touch ID</p>
-  <img src="img/mac8.jpg"/>
+  <img src="image/Install/MacOS/1_8.jpg"/>
   <p><span class="two">1.9</span> Обираємо  Use Strong Password Encryption, нажимаємо кнопку «Next»</p>
-  <img src="img/mac9.jpg"/>
+  <img src="image/Install/MacOS/1_9.jpg"/>
   <p><span class="two">1.10</span> У полі нам необхідно вигадати та ввести пароль, який ми будемо подальшому використовувати</p>
-  <img src="img/mac10.jpg"/>
+  <img src="image/Install/MacOS/1_10.jpg"/>
   <p><span class="two">1.11</span> Після введення, завершуємо інсталяцію, кнопка «Finish»</p>
-  <img src="img/mac11.jpg"/>
+  <img src="image/Install/MacOS/1_11.jpg"/>
   <p><span class="two">1.12</span> І знову для завершення необхідно або пароль від компʼютера або Touch ID</p>
-  <img src="img/mac12.jpg"/>
+  <img src="image/Install/MacOS/1_12.jpg"/>
   <p><span class="two">1.13</span> Все, інсталяція успішно завершилася, бачимо повідомлення про це, нажимаємо кнопку «Закрити»</p>
-  <img src="img/mac13.jpg"/>
+  <img src="image/Install/MacOS/1_13.jpg"/>
   <p><span class="two">1.14</span> Для того щоб перевірити, чи точно все успішно інсталювало, нам необхідно перейти в налаштування, знайти в кінці MySQL
 Якщо виконали все правильно, то кружечки будуть горіти зеленим, як на фото</p>
-  <img src="img/mac14.jpg"/>
+  <img src="image/Install/MacOS/1_14.jpg"/>
   <p><span class="two">1.15</span> Переходимо в Термінал
 Пишемо команду mysql -u root -p
 Після запуску, вводимо пароль, який ми записували декілька пунктів вище</p>
-  <img src="img/mac15.jpg"/>
+  <img src="image/Install/MacOS/1_15.jpg"/>
   <p><span class="two">1.16</span> Після виконання цих дій, ми можем працювати з MySQL!</p>
-  <img src="img/mac16.jpg"/>
+  <img src="image/Install/MacOS/1_16.jpg"/>
   </details>
   <details>
 	<summary>Windows</summary>

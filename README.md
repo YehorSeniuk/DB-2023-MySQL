@@ -291,7 +291,7 @@
 	Одним з найвідоміших прикладів абсолютної шкали є шкала Кельвіна. Вона починається з так званого абсолютного нуля і проводовжується в додатньмоу напрямку, себто не містить від'ємних значень.
   </p>
   <h4><span class="one">4.4</span> Реляційна схема системи IOO</h4>
-	<div style="backgroundcolor: white;">
+	<div style="background-color: white;">
 		<img src="image/RelSxem/4_4.svg"/>
 	</div>
     <div class="playlist">

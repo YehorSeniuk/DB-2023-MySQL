@@ -77,41 +77,51 @@
   <details>
    <summary>Windows</summary>
   <p><span class="two">1.1</span> Запускаємо інсталяційний пакет</p>
-  <img src="image/Install/MacOS/1_1.jpg"/>
-  <p><span class="two">1.2</span> Після запуску одразу побачимо попередження, нажимаємо кнопку «Дозволити»</p>
-  <img src="image/Install/MacOS/1_2.jpg"/>
-  <p><span class="two">1.3</span> Бачимо коротенький вступ, нажимаємо «Продовжити»</p>
-  <img src="image/Install/MacOS/1_3.jpg"/>
-  <p><span class="two">1.4</span> Після вступу читаємо ліцензію угоду програми. Ми друкувати чи зберігати її не будемо, тому нажимаємо кнопку «Продовжити»</p>
-  <img src="image/Install/MacOS/1_4.jpg"/>
-  <p><span class="two">1.5</span> Після того, як натиснули кнопку,  погоджуємось з ліцензійними угодами, нажавши кнопку «Погоджуюсь»</p>
-  <img src="image/Install/MacOS/1_5.jpg"/>
-  <p><span class="two">1.6</span> Після згоди, інсталюємо пакет, обов’язково слідкуємо, щоб було вільне місце
-Можем також змінити місце інсталювання( за умовчуванням  «Для всіх користувачів на цьому компʼютері»)</p>
-  <img src="image/Install/MacOS/1_6.jpg"/>
-  <p><span class="two">1.7</span> При натиснені кнопки «Змінити місце інсталяції»</p>
-  <img src="image/Install/MacOS/1_7.jpg"/>
-  <p><span class="two">1.8</span> Для інсталяції нам необхідно або ввести пароль від компʼютера або використати Touch ID</p>
-  <img src="image/Install/MacOS/1_8.jpg"/>
-  <p><span class="two">1.9</span> Обираємо  Use Strong Password Encryption, нажимаємо кнопку «Next»</p>
-  <img src="image/Install/MacOS/1_9.jpg"/>
-  <p><span class="two">1.10</span> У полі нам необхідно вигадати та ввести пароль, який ми будемо подальшому використовувати</p>
-  <img src="image/Install/MacOS/1_10.jpg"/>
-  <p><span class="two">1.11</span> Після введення, завершуємо інсталяцію, кнопка «Finish»</p>
-  <img src="image/Install/MacOS/1_11.jpg"/>
-  <p><span class="two">1.12</span> І знову для завершення необхідно або пароль від компʼютера або Touch ID</p>
-  <img src="image/Install/MacOS/1_12.jpg"/>
-  <p><span class="two">1.13</span> Все, інсталяція успішно завершилася, бачимо повідомлення про це, нажимаємо кнопку «Закрити»</p>
-  <img src="image/Install/MacOS/1_13.jpg"/>
-  <p><span class="two">1.14</span> Для того щоб перевірити, чи точно все успішно інсталювало, нам необхідно перейти в налаштування, знайти в кінці MySQL
-Якщо виконали все правильно, то кружечки будуть горіти зеленим, як на фото</p>
-  <img src="image/Install/MacOS/1_14.jpg"/>
-  <p><span class="two">1.15</span> Переходимо в Термінал
-Пишемо команду mysql -u root -p
-Після запуску, вводимо пароль, який ми записували декілька пунктів вище</p>
-  <img src="image/Install/MacOS/1_15.jpg"/>
-  <p><span class="two">1.16</span> Після виконання цих дій, ми можем працювати з MySQL!</p>
-  <img src="image/Install/MacOS/1_16.jpg"/>
+  <img src="image/Install/Windows/1_1.png"/>
+  <p><span class="two">1.2</span> Обираємо «Custom» та нажимаємо кнопку «Next»</p>
+  <img src="image/Install/Windows/1_2.png"/>
+  <p><span class="two">1.3</span> Обираємо MySQL Server та нажимаємо на зелену стрілку вправо</p>
+  <img src="image/Install/Windows/1_3_1.png"/>
+  <img src="image/Install/Windows/1_3_2.png"/>
+  <p><span class="two">1.4</span> Додоємо MySQL Workbench тієї ж версії</p>
+  <img src="image/Install/Windows/1_4.png"/>
+  <p><span class="two">1.5</span> Додоємо MySQL Documentation (за бажанням) За бажанням можна також додати Samples and Examples (у вкладці Documentation)</p>
+  <img src="image/Install/Windows/1_5.png"/>
+  <p><span class="two">1.6</span> Нажимаємо кнопку «Next»</p>
+  <img src="image/Install/Windows/1_6.png"/>
+  <p><span class="two">1.7</span> Натискаємо «Execute». Після повного завантаження натискаємо «Next»</p>
+  <img src="image/Install/Windows/1_7_1.png"/>
+  <img src="image/Install/Windows/1_7_2.png"/>
+  <img src="image/Install/Windows/1_7_3.png"/>
+  <p><span class="two">1.8</span> Натискаємо «Execute» та чекаємо інсталяції</p>
+  <img src="image/Install/Windows/1_8_1.png"/>
+  <img src="image/Install/Windows/1_8_2.png"/>
+  <img src="image/Install/Windows/1_8_3.png"/>
+  <p><span class="two">1.9</span> Нажимаємо кнопку «Next»</p>
+  <img src="image/Install/Windows/1_9.png"/>
+  <p><span class="two">1.10</span> В Config Type обираємо Development Computer та нажимаємо «Next»</p>
+  <img src="image/Install/Windows/1_10.png"/>
+  <p><span class="two">1.11</span> Обираємо Use Strong Password Encryption for Authentication та нажимаємо «Next»</p>
+  <img src="image/Install/Windows/1_11.png"/>
+  <p><span class="two">1.12</span> Потрібно вигадати та ввести пароль у поле MySQL Root Password та повторити введення у поле нижче. Натискаємо «Next»</p>
+  <img src="image/Install/Windows/1_12.png"/>
+  <p><span class="two">1.13</span> Залишаємо вибір за замовчуванням та нажимаємо «Next»</p>
+  <img src="image/Install/Windows/1_13.png"/>
+  <p><span class="two">1.14</span> Обираємо варіант який більше підходить під ваші потреби та нажимаємо «Next»</p>
+  <img src="image/Install/Windows/1_14.png"/>
+  <p><span class="two">1.15</span> Натискаємо «Execute»</p>
+  <img src="image/Install/Windows/1_15.png"/>
+  <p><span class="two">1.16</span> Натискаємо «Finish»</p>
+  <img src="image/Install/Windows/1_16.png"/>
+  <p><span class="two">1.17</span> Нажимаємо кнопку «Next»</p>
+  <img src="image/Install/Windows/1_17.png"/>
+  <p><span class="two">1.18</span> Натискаємо «Finish». У нас відкрилася вікно MySQLl Workbench.</p>
+  <img src="image/Install/Windows/1_18_1.png"/>
+  <img src="image/Install/Windows/1_18_2.png"/>
+  <p><span class="two">1.19</span> Переходимо в Командний рядок. Переходимо в папку MySQL\MySQL Server 8.0\bin. Пишемо команду mysql -u root -p та вводимо пароль </p>
+  <img src="image/Install/Windows/1_19.png"/>
+  <p><span class="two">1.20</span> Після виконання цих дій, ми можем працювати з MySQL!</p>
+  <img src="image/Install/Windows/1_20.png"/>
   </details>
 </div>
 

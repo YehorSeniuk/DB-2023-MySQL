@@ -243,7 +243,7 @@
 	<li>GRANT</li>
 	<li>REVOKE</li>
   </ul>
-  <img src="image/Concepts/SQLCommands.jpeg"/>
+  <img src="image/Concepts/SQLCommands.jpg"/>
     <div class="playlist">
 	<h4>📹 Відео-лекції, що варто переглянути по темі:</h4>
 	<ul>
